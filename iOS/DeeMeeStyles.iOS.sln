@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeeMeeStyles.iOS", "DeeMeeStyles.iOS.csproj", "{C87E15D7-79CE-41F1-B867-99F9DB02E501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Release|iPhone.Build.0 = Release|iPhone
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C87E15D7-79CE-41F1-B867-99F9DB02E501}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

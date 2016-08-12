@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="iOS/DeeMeeStyles.iOS.csproj">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.DeeMeeStyles.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07A70815-CC4F-4523-8826-6B06B17A81AF" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
